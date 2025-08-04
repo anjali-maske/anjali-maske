@@ -6,42 +6,6 @@
 
 ###
 
-<p align="left">Languages & Tools:</p>
-
-###
-
-<img align="right" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="31" alt="jupyter logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="31" alt="tensorflow logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="31" alt="pytorch logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="31" alt="opencv logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=flask" height="31" alt="flask logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="31" alt="r logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=github" height="31" alt="github logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="31" alt="git logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="31" alt="kaggle logo"  />
-</div>
-
 ###
 
 <div align="left">
