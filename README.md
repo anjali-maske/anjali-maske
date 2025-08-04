@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a 3rd-year BTech student in AI & Data Science, exploring Machine Learning, Deep Learning, and Computer Vision—teaching machines to "see" and "think." 😅 When I’m not coding, I’m lost in fiction books 📚.<br>Let’s innovate together! 🌱<br><br>Reach me out: aamaske50@gmail.com</p>
+<p align="left">I’m a Final year BTech student in AI & Data Science, exploring Machine Learning, Deep Learning, and Computer Vision—teaching machines to "see" and "think." 😅 When I’m not coding, I’m lost in fiction books 📚.<br>Let’s innovate together! 🌱<br><br>Reach me out: aamaske50@gmail.com</p>
 
 ###
 
